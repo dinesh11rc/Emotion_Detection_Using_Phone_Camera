@@ -48,11 +48,13 @@ python -m venv .venv
 .venv\Scripts\activate
 
 3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 4️⃣ Run Emotion Detection
+```
 python src/detect_emotion.py
-
+```
 🔮 Future Scope
 
 🌍 Deploy the model on cloud for remote access
@@ -76,4 +78,5 @@ DroidCam – https://www.dev47apps.com/
 📝 License
 
 This project is licensed under the MIT License – feel free to use and modify with credit.
+
 
